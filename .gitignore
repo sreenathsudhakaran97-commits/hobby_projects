@@ -1,0 +1,29 @@
+# OS files
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+
+# Logs
+*.log
+logs/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+build/
+coverage/
+.next/
+out/
+
+# Misc
+*.tmp
+*.swp
