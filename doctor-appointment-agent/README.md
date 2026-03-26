@@ -48,7 +48,7 @@ Once the server starts, you'll see a local URL (e.g., `http://localhost:5173/`) 
 ## 📁 Project Structure
 
 ```text
-hospital-bot/
+doctor-appointment-agent/
 ├── UI/              # Frontend source code
 │   ├── index.html   # Main entry point
 │   ├── main.js      # Chat logic and interactions
